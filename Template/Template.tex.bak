@@ -1,0 +1,32 @@
+\documentclass[12pt]{article}
+
+\usepackage[]{fullpage}
+
+\begin{document}
+
+\tableofcontents
+
+\title{Functional Derivative}
+\author{Andreas Niedens}
+\date{\today}
+\maketitle
+
+This is my first $x+1$
+
+fractions : $\displaystyle{\frac{2}{3}}$
+parentheses : $\displaystyle{\left(\frac{2}{3}\right)}$
+
+\begin{tabular}{cc}
+	$x$ & 1
+\end{tabular}
+
+$\lim \limits_{x \to a} f(x)$
+
+$\displaystyle{\int \sin x \,dx = -\cos x + C}$\\
+$\displaystyle{\int \limits_a^b}$\\
+
+\section{Introduction}
+	\subsection{Yes}
+\section{Definition}
+
+\end{document}

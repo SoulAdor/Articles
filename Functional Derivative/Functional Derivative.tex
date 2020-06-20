@@ -1,0 +1,268 @@
+\documentclass[12pt]{article}
+
+\usepackage[]{fullpage}
+\usepackage{amsmath}
+\usepackage{physics}
+\usepackage{mathtools}
+
+\begin{document}
+
+\title{Functional Derivative}
+\author{Andreas Niedens}
+\date{\today}
+\maketitle
+
+\section{Introduction}
+	We want to introduce the notion of functionals and functional derivatives. They can be used to calculate stationary functions of functionals, and help us understand how much does functional value change when we vary given function at certain point.
+\section{Definitions}
+	\subsection{Functionals}
+	Let's begin with definition of functional. A functional's goal, like function's, is to give us a number. The difference is, functionals take functions and not numbers as input. For example, given trajectory of particle as a function, we could ask, what distance did this particle travel, or we could calculate average kinetic energy. These values depend on path taken (and speed), so functional definition comes to us naturally this way. The term 'functional' is just used so we know that it acts on functions.\\
+	
+	We can write functionals like this : $F[f]$. An example of functional can be:
+	\begin{itemize}
+		\item $F[f] = \displaystyle{\int \limits_0^1 f(x) \,dx}$ \\
+			If we provide $f(x) = x^2$ as input, we will get $\displaystyle{\frac{1}{3}}$.
+		\item $F[f] = \displaystyle{\int \limits_{-a}^{a} 5[f(x)]^2 \,dx}$ \\
+			For input $f(x) = x^2$ functional gives us $2a^5$.
+		\item $F_{x_0}[f] = \displaystyle{\int \limits_{-\infty}^\infty f(x)\delta(x - x_0) \,dx} = f(x_0)$ \\
+			We can see from this example that functionals can be used as functions, so they are in some sense generalized functions. This 				functional gives us value of function $f$ at point $x_0$.
+	\end{itemize}
+	
+	\subsection{Functional Derivatives}
+	If functionals can be thought of as generalized functions, we can try to think of generalized derivatives too. For usual functions, definition of derivative is
+	$$
+		f'(x) = \lim \limits_{\epsilon \to 0}
+		\displaystyle{\frac
+			{f(x + \epsilon) - f(x)}
+			{\epsilon}
+		}
+	$$
+	It tells us, how fast does a value of function change at point $x$ by we evaluating it at point $x + \epsilon$ for arbitrary small $\epsilon$ and taking the difference. But functionals do not act on points, they act on functions. It would have been convenient to have one parameter to find 'nearest function', but we can change input function at any one point by increasing its value near that point and leaving all other points the same. This way, we have infinite number of closest functions, and instead of having one $\epsilon$, we now have to decide two things:
+	\begin{enumerate}
+		\item Where to increase (or change) the function.
+		\item How much do we need to change it (Something like choosing $\epsilon$)
+	\end{enumerate}
+	Also, we need to understand what will the result of differentiation give us. For functions, derivative gives us a number for each input number. For functionals, we would get a function for each input function. This derivative function's value at each point would tell us, how much does functional value change if we change input function's value at that exact point.
+	Another problem is, how do we actually change a function's value at some point? We still would like it to be continuous, so just adding one number would not suffice. But if we change it at many places at once, we would not be able to understand how much each coordinate affects functional value, but just see the global effect. This can be solved with Dirac delta function ($\delta$ function), which can be thought of limit of functions that are continuous, narrow at one point so that they change value of the function only at that point. \\
+	
+	So we arrive at our definition of functional derivative that gives value of function at point $x_0$: \\
+	\begin{equation}\label{Functional derivative definition}
+		\displaystyle{\frac
+			{\delta F}
+			{\delta f(x)}
+		} = \lim \limits_{\epsilon \to 0}
+		\displaystyle{\frac
+			{F[f(x) + \epsilon \delta(x-x_0)] - F[f(x)]}
+			{\epsilon}
+		}
+	\end{equation}
+	
+\newpage
+	
+\section{Examples}
+	Let's try evaluating several examples.
+	\begin{itemize}
+		\item  $I[f] = \displaystyle{\int \limits_{-1}^1 f(x) \,dx} $
+		\begin{eqnarray*}		
+			\displaystyle
+			{\frac
+				{\delta I[f]}
+				{\delta f(x_0)}
+			}  
+			= 
+			\lim \limits_{\epsilon \to 0}
+			\displaystyle
+			{\frac
+				{\displaystyle{\int \limits_{-1}^1 f(x) + \epsilon\delta(x - x_0) \,dx} - \displaystyle{\int \limits_{-1}^1 f(x) \,dx}}
+				{\epsilon}
+			} 
+			=  \\
+			\lim \limits_{\epsilon \to 0}
+			\displaystyle
+			{\frac
+				{\displaystyle{\int \limits_{-1}^1 \epsilon\delta(x - x_0) \,dx}}
+				{\epsilon}
+			} 
+			=
+			\displaystyle{\int \limits_{-1}^1 \delta(x - x_0) \,dx}
+			= 
+			\begin{cases}
+            	1 & \text{if } -1 \leq x_0 \leq 1 \\
+            	0 & \text{else}
+    		\end{cases}
+		\end{eqnarray*}
+		We see, that derivative is 0 outside integral. We could expect that, since functional does not depend on outside values. It is one inside because we add delta function, whose integral is $\epsilon * 1$ to some integral and divide difference by $\epsilon$
+		\item  $J[f] = \displaystyle{\int [f(y)]^p\phi(y) \,dy} $
+		\begin{eqnarray*}		
+			\displaystyle
+			{\frac
+				{\delta J[f]}
+				{\delta f(x)}
+			}  
+			= 
+			\lim \limits_{\epsilon \to 0}
+			\displaystyle
+			{\frac
+				{\displaystyle{\int [f(y)+ \epsilon\delta(y - x)]^p\phi(y) \,dy} - \displaystyle{\int [f(y)]^p\phi(y) \,dy}}
+				{\epsilon}
+			} 
+		\end{eqnarray*}
+		Writing $[f(y)+ \epsilon\delta(y - x)]^p = [f(y)]^p + p[f(y)]^{p-1}\epsilon\delta(y - x)$, first term cancels and we are left with
+		$\int p[f(y)]^{p-1}\delta(y - x)\phi(y)\,dy$ after reducing fraction, and after using delta's property gives us 
+		\begin{equation} \label{Power derivative}
+		\frac
+			{\delta J[f]}
+			{\delta f(x)} 
+			= p[f(x)]^{p-1}\phi(x)
+		\end{equation}
+		
+		In this case functional derivative behaves like usual differentiation, when we are differentiating powers.
+		
+		\item  $H[f] = \displaystyle{\int \limits_a^b g[f(x)] \,dx} $
+		\begin{eqnarray*}		
+			\displaystyle
+			{\frac
+				{\delta H[f]}
+				{\delta f(x_0)}
+			}  
+			= 
+			\lim \limits_{\epsilon \to 0}
+			\displaystyle
+			{\frac
+				{\displaystyle{\int g[f(x)+ \epsilon\delta(x_0 - x)] \,dy} - \displaystyle{\int g[f(x)]  \,dy}}
+				{\epsilon}
+			}
+		\end{eqnarray*}
+		Expanding $g[f(x)+ \epsilon\delta(x_0 - x)]$ as $g[f(x)]+ \epsilon\delta(x_0 - x)g'[f(x)]$, first term cancels and we are left with
+		$\int \delta(x_0 - x)g'[f(x)]$ that gives us 
+		\begin{equation} \label{Composition derivative}
+		{\frac
+			{\delta H[f]}
+			{\delta f(x_0)}
+		} 
+		=
+		g'[f(x_0)]
+		\end{equation}
+		
+		\item  $J[f] = \displaystyle{\int g(f'(y)) \,dy} $, where $f'(y) = \dv{f(y)}{y}$
+		\begin{eqnarray*}		
+			\displaystyle
+			{\frac
+				{\delta J[f]}
+				{\delta f(x)}
+			}  
+			= 
+			\lim \limits_{\epsilon \to 0}
+			\displaystyle
+			{\frac
+				{\displaystyle{\int g(\pdv{y}[f(y) + \epsilon\delta(x - y)]) \,dy} - \displaystyle{\int g(f'(y))  \,dy}}
+				{\epsilon}
+			}
+		\end{eqnarray*}
+		$g(\pdv{y}[f(y) + \epsilon\delta(x - y)]) = g([f'(y) + \epsilon\delta'(x - y)]) = g(f'(y))+ \epsilon\delta'(x - y)g'(f'(y))$, keeping only first order terms in $\epsilon$. We are left with following integral :
+			$\displaystyle{\int \delta'(x - y) \dv{g(f')}{f'} \,dy}$
+			We use integration by parts to get $[\delta(x - y) \dv{g(f')}{f'}] - \displaystyle{\int \delta(x - y) \dv{y}\dv{g(f')}{f'} \,dy}$. First term is 0, if $x$ is inside integral limits (we get $0 - 0$, as $\delta$ function is 0 on the boundaries) We are left with 
+			\begin{equation} \label{Composition primed derivative}
+			{\frac
+				{\delta J[f]}
+				{\delta f(x)}
+			} 
+			= 
+			- \dv{x}\dv{g(f'(x))}{f'(x)} 
+			\end{equation}
+			
+	For example, if $F[\phi] = \displaystyle{\int {\left(\pdv{\phi}{y}\right)}^2 \,dy }$, then $\displaystyle { 
+			{\frac
+				{\delta F[\phi]}
+				{\delta \phi(x)}
+			} = -  \dv{x} 2 \left(\pdv{\phi}{x}\right) = - 2 \pdv[2]{\phi}{x}
+			}$
+	\end{itemize}
+
+\section{Lagrangians and stationary action}
+	We will try to apply a calculus of variations on a particle moving in potential field. Let's look for some properties that it has along its path, like average potential energy :
+	\begin{equation} \label{Average potential energy}
+		\bar V = 
+			\frac {1}{\tau}
+			{\displaystyle{\int \limits_{0}^{\tau} V(x)\,dt}}
+	\end{equation}
+	Average potential energy is a functoinal, because we have a number for each trajectory and potential. Using (\ref{Composition derivative}), we find its functional derivative :
+	\begin{equation} \label{Average potential energy functional derivative}
+	{\frac
+		{\delta \bar V[x] }
+		{\delta x(t)}
+	}
+	= 
+		\frac {1}{\tau}
+		{V'[x(t)]}
+	\end{equation}
+	Of course, we can do the same thing for kinetic energy :
+	\begin{equation} \label{Average kinetic energy}
+		\bar T = 
+			\frac {1}{\tau}
+			{\displaystyle{\int \limits_{0}^{\tau} \frac {1}{2} m \dot{x}^2 \,dt}}
+	\end{equation}
+	Using (\ref{Composition primed derivative}), we can write it as :
+	\begin{equation} \label{Average kinetic energy functional derivative}
+	{\frac
+		{\delta \bar T[x] }
+		{\delta x(t)}
+	}
+	= 
+		- \frac {1}{\tau} \dv{x} (
+		m \dot{x}) 
+	=
+		- \frac {1}{\tau} 
+		m \ddot{x}
+	\end{equation}
+	We also need a formula for forces in potential field :
+	\begin{equation} \label{Force in potential field}
+		F = - \dv{V}{x} = m \ddot{x}
+	\end{equation}
+	Combining this equation with (\ref{Average kinetic energy functional derivative}) and (\ref{Average potential energy functional derivative}), we see that derivative for average kinetic energy equals to derivative of average potential energy : 
+	\begin{equation} \label{Kinetic and potential energy derivatives are equal}
+	\boxed{
+		{\frac
+			{\delta \bar T[x] }
+			{\delta x(t)}
+		}
+		=
+		{\frac
+			{\delta \bar V[x] }
+			{\delta x(t)}
+		}
+	}
+	\end{equation}
+	It is indeed an interesting result. On a classical trajectory we can see that deviation from trajectory increases average potential and kinetic energies by \textit{the same amount}. If we try to combine derivative operations together, we can rewrite it as
+	\begin{equation} \label{Almost stationary action}
+	{\frac
+		{\delta (\bar T[x] - \bar V[x])}
+		{\delta x(t)}
+	} = 0
+	\end{equation}
+	We found some quantity that is stationary along classical trajectory, which means that its derivative is zero. We call that quantity \textbf{Lagrangian} :
+	\begin{equation} \label{Lagrangian definition}
+		\boxed{L \coloneqq  T - V}
+	\end{equation}
+	And integral of Lagrangian over time is called \textbf{Action} :
+	\begin{equation} \label{Action definition}
+		\displaystyle {\boxed{S \coloneqq  \int \limits_{0}^{\tau} L \,dt } }
+	\end{equation}
+	Action is measured in [energy * time]. We can rewrite equation (\ref{Almost stationary action}) by rewriting definition of averages and changing them with Lagrangian Lagrangian. The factor of $\frac{1}{\tau}$ will cancel out and we are left with : 
+	\begin{equation} \label{Principle of stationary action}
+		\displaystyle {\boxed{
+		{\frac
+			{\delta S}
+			{\delta x(t)}
+		} = 0
+		} }
+	\end{equation}
+	Which is known as \textbf{Hamilton's principle of least action}.
+\end{document}
+
+
+
+
+
+
+
