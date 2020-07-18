@@ -1,0 +1,561 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.8)  18 JUL 2020 14:47
+entering extended mode
+**"./Representation Theory.tex"
+("Representation Theory.tex"
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-18>
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2020/06/10 3.45 The Babel package
+
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2020/06/10 3.45 Babel common definitions
+\babel@savecnt=\count175
+\U@D=\dimen135
+\l@babelnohyphens=\language79
+
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count176
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/generic/babel-georgian\geor
+gian.ldf
+Language: georgian 2017/11/20 2.2 Georgian support from the babel system
+
+
+Package babel Warning: No Georgian font encoding has been loaded so far.
+(babel)                A font encoding should be declared before babel.
+(babel)                Default `T8M' encoding will be loaded  on input line 77.
+
+
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/georgian\t8menc.def
+File: t8menc.def 2009/03/04 v1.1 Georgian Mxedruli encoding definition file
+Now handling font encoding T8M ...
+... processing UTF-8 mapping file for font encoding T8M
+
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/georgian\t8menc.dfu
+File: t8menc.dfu 2009/03/04 v1.1 UTF8 support for Georgian
+   defining Unicode char U+10A0 (decimal 4256)
+   defining Unicode char U+10A1 (decimal 4257)
+   defining Unicode char U+10A2 (decimal 4258)
+   defining Unicode char U+10A3 (decimal 4259)
+   defining Unicode char U+10A4 (decimal 4260)
+   defining Unicode char U+10A5 (decimal 4261)
+   defining Unicode char U+10A6 (decimal 4262)
+   defining Unicode char U+10A7 (decimal 4263)
+   defining Unicode char U+10A8 (decimal 4264)
+   defining Unicode char U+10A9 (decimal 4265)
+   defining Unicode char U+10AA (decimal 4266)
+   defining Unicode char U+10AB (decimal 4267)
+   defining Unicode char U+10AC (decimal 4268)
+   defining Unicode char U+10AD (decimal 4269)
+   defining Unicode char U+10AE (decimal 4270)
+   defining Unicode char U+10AF (decimal 4271)
+   defining Unicode char U+10B0 (decimal 4272)
+   defining Unicode char U+10B1 (decimal 4273)
+   defining Unicode char U+10B2 (decimal 4274)
+   defining Unicode char U+10B3 (decimal 4275)
+   defining Unicode char U+10B4 (decimal 4276)
+   defining Unicode char U+10B5 (decimal 4277)
+   defining Unicode char U+10B6 (decimal 4278)
+   defining Unicode char U+10B7 (decimal 4279)
+   defining Unicode char U+10B8 (decimal 4280)
+   defining Unicode char U+10B9 (decimal 4281)
+   defining Unicode char U+10BA (decimal 4282)
+   defining Unicode char U+10BB (decimal 4283)
+   defining Unicode char U+10BC (decimal 4284)
+   defining Unicode char U+10BD (decimal 4285)
+   defining Unicode char U+10BE (decimal 4286)
+   defining Unicode char U+10BF (decimal 4287)
+   defining Unicode char U+10C0 (decimal 4288)
+   defining Unicode char U+10C4 (decimal 4292)
+   defining Unicode char U+10C1 (decimal 4289)
+   defining Unicode char U+10C5 (decimal 4293)
+   defining Unicode char U+10C2 (decimal 4290)
+   defining Unicode char U+10C3 (decimal 4291)
+   defining Unicode char U+10D0 (decimal 4304)
+   defining Unicode char U+10D1 (decimal 4305)
+   defining Unicode char U+10D2 (decimal 4306)
+   defining Unicode char U+10D3 (decimal 4307)
+   defining Unicode char U+10D4 (decimal 4308)
+   defining Unicode char U+10D5 (decimal 4309)
+   defining Unicode char U+10D6 (decimal 4310)
+   defining Unicode char U+10D7 (decimal 4311)
+   defining Unicode char U+10D8 (decimal 4312)
+   defining Unicode char U+10D9 (decimal 4313)
+   defining Unicode char U+10DA (decimal 4314)
+   defining Unicode char U+10DB (decimal 4315)
+   defining Unicode char U+10DC (decimal 4316)
+   defining Unicode char U+10DD (decimal 4317)
+   defining Unicode char U+10DE (decimal 4318)
+   defining Unicode char U+10DF (decimal 4319)
+   defining Unicode char U+10E0 (decimal 4320)
+   defining Unicode char U+10E1 (decimal 4321)
+   defining Unicode char U+10E2 (decimal 4322)
+   defining Unicode char U+10E3 (decimal 4323)
+   defining Unicode char U+10E4 (decimal 4324)
+   defining Unicode char U+10E5 (decimal 4325)
+   defining Unicode char U+10E6 (decimal 4326)
+   defining Unicode char U+10E7 (decimal 4327)
+   defining Unicode char U+10E8 (decimal 4328)
+   defining Unicode char U+10E9 (decimal 4329)
+   defining Unicode char U+10EA (decimal 4330)
+   defining Unicode char U+10EB (decimal 4331)
+   defining Unicode char U+10EC (decimal 4332)
+   defining Unicode char U+10ED (decimal 4333)
+   defining Unicode char U+10EE (decimal 4334)
+   defining Unicode char U+10EF (decimal 4335)
+   defining Unicode char U+10F0 (decimal 4336)
+   defining Unicode char U+10F1 (decimal 4337)
+   defining Unicode char U+10F2 (decimal 4338)
+   defining Unicode char U+10F3 (decimal 4339)
+   defining Unicode char U+10F4 (decimal 4340)
+   defining Unicode char U+10F5 (decimal 4341)
+   defining Unicode char U+10F6 (decimal 4342)
+   defining Unicode char U+10F7 (decimal 4343)
+   defining Unicode char U+10F8 (decimal 4344)
+   defining Unicode char U+10F9 (decimal 4345)
+   defining Unicode char U+10FA (decimal 4346)
+   defining Unicode char U+10FB (decimal 4347)
+   defining Unicode char U+10FC (decimal 4348)
+))
+
+Package babel Warning: No input encoding specified for Georgian language on inp
+ut line 109.
+
+Package babel Info: Making " an active character on input line 110.
+Package babel Info: \geodash is defined on input line 146.
+
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/generic/babel-georgian\geor
+giancaps.tex
+File: georgiancaps.tex 2013/06/06 v2.0 Captions in Georgian
+))
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english
+.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+))
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T8M+cmr on input line 1
+12.
+
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/georgian\t8mcmr.fd
+File: t8mcmr.fd t8mcmr fontfile
+)
+LaTeX Font Info:    Trying to load font information for T8M+djg on input line 1
+12.
+
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/georgian\t8mdjg.fd
+File: t8mdjg.fd 2007/10/20 Fontinst v1.929 font definitions for T8M/djg.
+)
+LaTeX Font Info:    Font shape `T8M/cmr/m/n' in size <12> not available
+(Font)              Font shape `T8M/djg/m/n' tried instead on input line 112.
+LaTeX Font Info:    Font shape `T8M/djg/m/n' will be
+(Font)              scaled to size 10.79993pt on input line 112.
+)
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/preprint\fullpage.sty
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip49
+) (C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip50
+For additional information on amsmath, use the `?' option.
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen136
+))
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen137
+)
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count177
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count178
+\leftroot@=\count179
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count180
+\DOTSCASE@=\count181
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen138
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count182
+\c@MaxMatrixCols=\count183
+\dotsspace@=\muskip16
+\c@parentequation=\count184
+\dspbrk@lvl=\count185
+\tag@help=\toks16
+\row@=\count186
+\column@=\count187
+\maxfields@=\count188
+\andhelp@=\toks17
+\eqnshift@=\dimen139
+\alignsep@=\dimen140
+\tagshift@=\dimen141
+\tagwidth@=\dimen142
+\totwidth@=\dimen143
+\lineht@=\dimen144
+\@envbody=\toks18
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/physics\physics.sty
+Package: physics 
+
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpa
+rse.sty
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2020-06-18 L3 programming layer (loader) 
+
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-p
+dfmode.def
+File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count189
+\l__pdf_internal_box=\box47
+))
+Package: xparse 2020-05-15 L3 Experimental document command parser
+
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpa
+rse-generic.tex
+\l__xparse_current_arg_int=\count190
+\g__xparse_grabber_int=\count191
+\l__xparse_m_args_int=\count192
+\l__xparse_v_nesting_int=\count193
+)))
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.s
+ty
+Package: mathtools 2020/03/24 v1.24 mathematical typesetting tools
+
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count194
+\calc@Bcount=\count195
+\calc@Adimen=\dimen145
+\calc@Bdimen=\dimen146
+\calc@Askip=\skip53
+\calc@Bskip=\skip54
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count196
+\calc@Cskip=\skip55
+)
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
+Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
+\g_MT_multlinerow_int=\count197
+\l_MT_multwidth_dim=\dimen147
+\origjot=\skip56
+\l_MT_shortvdotswithinadjustabove_dim=\dimen148
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen149
+\l_MT_above_intertext_sep=\dimen150
+\l_MT_below_intertext_sep=\dimen151
+\l_MT_above_shortintertext_sep=\dimen152
+\l_MT_below_shortintertext_sep=\dimen153
+\xmathstrut@box=\box48
+\xmathstrut@dim=\dimen154
+) ("Representation Theory.aux")
+\openout1 = `"Representation Theory.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T8M/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics
+.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.d
+ef
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
+mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count198
+\scratchdimen=\dimen155
+\scratchbox=\box49
+\nofMPsegments=\count199
+\nofMParguments=\count266
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count267
+\MPscratchDim=\dimen156
+\MPnumerator=\count268
+\makeMPintoPDFobject=\count269
+\everyMPtoPDFconversion=\toks22
+)))
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf
+-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+\Gin@req@height=\dimen157
+\Gin@req@width=\dimen158
+)
+LaTeX Font Info:    Font shape `T8M/cmr/m/n' in size <20.74> not available
+(Font)              Font shape `T8M/djg/m/n' tried instead on input line 19.
+LaTeX Font Info:    Font shape `T8M/djg/m/n' will be
+(Font)              scaled to size 18.66588pt on input line 19.
+LaTeX Font Info:    Font shape `T8M/cmr/m/n' in size <14.4> not available
+(Font)              Font shape `T8M/djg/m/n' tried instead on input line 19.
+LaTeX Font Info:    Font shape `T8M/djg/m/n' will be
+(Font)              scaled to size 12.9599pt on input line 19.
+LaTeX Font Info:    Font shape `T8M/cmr/m/n' in size <17.28> not available
+(Font)              Font shape `T8M/djg/m/n' tried instead on input line 21.
+LaTeX Font Info:    Font shape `T8M/djg/m/n' will be
+(Font)              scaled to size 15.55188pt on input line 21.
+LaTeX Font Info:    Font shape `T8M/cmr/bx/n' in size <17.28> not available
+(Font)              Font shape `T8M/djg/bx/n' tried instead on input line 21.
+LaTeX Font Info:    Font shape `T8M/djg/bx/n' in size <17.28> not available
+(Font)              Font shape `T8M/djg/b/n' tried instead on input line 21.
+LaTeX Font Info:    Font shape `T8M/djg/b/n' will be
+(Font)              scaled to size 15.55188pt on input line 21.
+ ("Representation Theory.toc"
+LaTeX Font Info:    Font shape `T8M/cmr/bx/n' in size <12> not available
+(Font)              Font shape `T8M/djg/bx/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `T8M/djg/bx/n' in size <12> not available
+(Font)              Font shape `T8M/djg/b/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `T8M/djg/b/n' will be
+(Font)              scaled to size 10.79993pt on input line 2.
+)
+\tf@toc=\write3
+\openout3 = `"Representation Theory.toc"'.
+
+LaTeX Font Info:    Font shape `T8M/cmr/bx/n' in size <14.4> not available
+(Font)              Font shape `T8M/djg/bx/n' tried instead on input line 28.
+LaTeX Font Info:    Font shape `T8M/djg/bx/n' in size <14.4> not available
+(Font)              Font shape `T8M/djg/b/n' tried instead on input line 28.
+LaTeX Font Info:    Font shape `T8M/djg/b/n' will be
+(Font)              scaled to size 12.9599pt on input line 28.
+
+Overfull \hbox (31.86484pt too wide) in paragraph at lines 29--30
+\T8M/djg/m/n/12 ã£´µ¨¡ ¨¥®±©©² ¹¥²à¡¦«©² ¤¡à¸¥¢¡ ¹¥©¼«¥¢¡ ²©¬¥³±©¥¢©¨ ¤¡ £¡±¤¡¶
+¬­¥¢©¨. à¡±¬®¤£¥­©²
+ []
+
+
+Overfull \hbox (21.92113pt too wide) in paragraph at lines 39--40
+[]\T8M/djg/m/n/12 µ©§©ª®²¥¢© â¹©±¡¤ £´«©²â¬®¢¥­ ¬¡³±©»¥¢², ±®¤¥²¡» ²¡´¢±®¢¥­ ã£
+´µ©² ¥«¥¬¥­³¥¢§¥
+ []
+
+
+Overfull \hbox (2.91039pt too wide) in paragraph at lines 39--40
+\T8M/djg/m/n/12 ¤¡ µ©¶±®¢¥­, ±®¬ ¥² ¥±¨© ¤¡ ©£©¦¥ ¡±©². ¢®«®² ¤¡ ¢®«®², ¬¡¨ ¬â®
+«®¤ £¡±¤¡¶¬­¥¢©
+ []
+
+
+Overfull \hbox (47.38797pt too wide) in paragraph at lines 39--40
+\T8M/djg/m/n/12 ±®¬¥«©» £¡¬®©¸¥­¥¢¡ ¨¥®±©´« µ©§©ª¡¹©, £¡­©¬¡±³¥¢¡ ¬¡³±©»¥¢©² à¡
+±¬®¤£¥­©¨ (¬¡£¡«©¨¡¤,
+ []
+
+[1
+
+{C:/Users/Andreas/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+Overfull \hbox (16.73398pt too wide) in paragraph at lines 42--43
+[]\T8M/djg/m/n/12 ¹¥£¦©¼«©¡ ¦­¡â®¨, ±®¬ $\OML/cmm/m/it/12 D\OT1/cmr/m/n/12 (\OM
+L/cmm/m/it/12 I\OT1/cmr/m/n/12 ) = \OML/cmm/m/it/12 I[]$\T8M/djg/m/n/12 , ²¡¤¡»
+ ¬¡±»â¥­¡ $\OML/cmm/m/it/12 I$ \T8M/djg/m/n/12 £´«©²â¬®¢² ã£´µ©² ¥±¨¥´«®¦¡­
+ []
+
+
+Overfull \hbox (22.58069pt too wide) in paragraph at lines 44--47
+\OML/cmm/m/it/12 D\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 g\OT1/cmr/m/n/12 )\OML/cmm/
+m/it/12 D\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 g[]\OT1/cmr/m/n/12 )$\T8M/djg/m/n/12
+ , ±®¬¥«©», (1[])-©² £¡¨¦¡«©²à©­¥¢©¨, £¦¡¼«¥¦² $\OML/cmm/m/it/12 D\OT1/cmr/m/n/
+12 (\OML/cmm/m/it/12 I\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 D\OT1/cmr/m/n/12 (\OML/
+cmm/m/it/12 I\OT1/cmr/m/n/12 ) = \OML/cmm/m/it/12 D\OT1/cmr/m/n/12 (\OML/cmm/m/
+it/12 I\OT1/cmr/m/n/12 )$\T8M/djg/m/n/12 . £¡¦¡¬±¡¦«®¨
+ []
+
+
+Overfull \hbox (24.70807pt too wide) in paragraph at lines 44--47
+\T8M/djg/m/n/12 ®±© ¬¡³±©»¡ ¥±¨¬¡­¥¨² "¡¢¡¨©«¥¢²", ±®£®±» ã£´µ©² ¥«¥¬¥­³¥¢² ¹¥´
+¼«©¡¨ ¥±¨¬¡­¥¨©²
+ []
+
+
+Overfull \hbox (6.71553pt too wide) in paragraph at lines 48--49
+\T8M/djg/m/n/12 à¡±¬®¤£¥­¡? ±¡¬¤¥­© ¡¶¦²? ¡±©² ¨´ ¡±¡ £¡­§®¬©«¥¢¡ ¹¥§·´¤´«©? ±®
+£®± £¡¦¡±º©®¨
+ []
+
+
+Overfull \hbox (3.79945pt too wide) in paragraph at lines 50--51
+\T8M/djg/m/n/12 ¦¥¶³®±² ¹¥£¦©¼«©¡ ¹¥¦´²¡¢¡¬®¨ ±©»â¦© ¤¡ £¡¤¡¦¡­¡»¦«®¨ ¥² ¦¥¶³®±
+¥¢© ¥±¨¬¡­¥¨¹©
+ []
+
+
+Overfull \hbox (8.6559pt too wide) in paragraph at lines 50--51
+\T8M/djg/m/n/12 ¬¡³±©»¥¢©¨. ¡¬©² ¬©´â¥¤¡¦¡¤, ã£´µ¥¢©² ¼©±©¨¡¤ ­¡à©«², ±®¬¥«©» µ
+©§©ª¡¹© £¦â¦¤¥¢¡,
+ []
+
+
+Overfull \hbox (19.30453pt too wide) in paragraph at lines 52--53
+\T8M/djg/m/n/12 ¬â¡±¥². ¡¬ à¡±¬®¤£¥­¡² ³±©¦©¡«´±© ¥à®¤¥¢¡, ¬¡£±¡¬, ¯©±¦¥«© ¹¥â¥
+¤¦©¨, ¬¡² £¡¬®¸¥­¥¢¡
+ []
+
+
+Overfull \hbox (6.6687pt too wide) in paragraph at lines 52--53
+\T8M/djg/m/n/12 ¡± £¡¡º­©¡. ¡¬©² ¬©´â¥¤¡¦¡¤, ¬©²© £¡¬®¸®µ¡ ¬­©¹¦­¥«®¦¡­©¡, ±©»â
+¦© 0-² ¡­¡«®£©´±¡¤,
+ []
+
+
+Overfull \hbox (6.52394pt too wide) in paragraph at lines 54--55
+[]\T8M/djg/m/n/12 ¬¡¨¥¬¡³©ª´±© ¥­©² £¡¬®¸¥­¥¢©¨, º¦¥­ £¡­¦²¡§·¦±¡¦¨ $\OML/cmm/m
+/it/12 d$\T8M/djg/m/n/12 -£¡­§®¬©«¥¢©¡­ à¡±¬®¤£¥­¡²
+ []
+
+
+Overfull \hbox (33.40855pt too wide) in paragraph at lines 56--57
+[]\T8M/djg/m/n/12 º¦¥­ ¡²¥¦¥ ¹¥£¦©¼«©¡ ¬¡³±©»¥¢©¨ ã£´µ¥¢©² £¡­¦²¡§·¦±¡. ¡²¥¨ ¹¥
+¬¨â¦¥¦¡¹© à¡±¬®¤£¥­¡²
+ []
+
+
+Overfull \hbox (11.80971pt too wide) in paragraph at lines 61--62
+\T8M/djg/m/n/12 §¥¤¡ ©­¤¥¶²©² £¡¬®¸¥­¥¢©¨. º¦¥­ ¤¡¦à¥±¨ $\OML/cmm/m/it/12 D[]\O
+T1/cmr/m/n/12 (\OML/cmm/m/it/12 g\OT1/cmr/m/n/12 )$ \T8M/djg/m/n/12 ¬¡³±©»©²¨¦©
+², ±®¬¥«©» à¡±¬®¡¤£¥­²
+ []
+
+[2]
+Overfull \hbox (52.43083pt too wide) in paragraph at lines 69--70
+[]\T8M/djg/m/n/12 â¡²©¡¨©, ±®£®±» ¤¡²¡â¥«¥¢©¤¡­ £¡¬®¬¤©­¡±¥®¢², £¦¥â¬¡±¥¢¡ à¡±¬
+®¤£¥­©² ¤¡â¡²©¡¨¥¢¡¹©. 
+ []
+
+
+Overfull \hbox (17.4932pt too wide) in paragraph at lines 71--72
+[]\T8M/djg/m/n/12 º¦¥´«¥¢±©¦¡¤, â¡²©¡¨© ¤¡¬®ª©¤¥¢´«©¡ à¡±¬®¤£¥­¡²¡ $\OML/cmm/m/
+it/12 r$ \T8M/djg/m/n/12 ¤¡ ¥«¥¬¥­³§¥ $\OML/cmm/m/it/12 g$\T8M/djg/m/n/12 . £¡¦
+©â²¥­®¨,
+ []
+
+
+Overfull \hbox (62.3386pt too wide) in paragraph at lines 79--84
+[]$\OML/cmm/m/it/12 []\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 g[]\OT1/cmr/m/n/12 ) =
+ \OML/cmm/m/it/12 trD[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 g[]\OT1/cmr/m/n/12 ) =
+ \OML/cmm/m/it/12 trD[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 f[]g[]f\OT1/cmr/m/n/12
+ ) = \OML/cmm/m/it/12 trD[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 f[]\OT1/cmr/m/n/12
+ )\OML/cmm/m/it/12 D[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 g[]\OT1/cmr/m/n/12 )\OM
+L/cmm/m/it/12 D[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 f\OT1/cmr/m/n/12 ) = \OML/cm
+m/m/it/12 trD[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 g[]\OT1/cmr/m/n/12 )\OML/cmm/m
+/it/12 D[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 f\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 
+D[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 f[]\OT1/cmr/m/n/12 ) =
+ []
+
+
+Overfull \hbox (3.25589pt too wide) in paragraph at lines 89--90
+[]\T8M/djg/m/n/12 ²¡¤¡» $\OML/cmm/m/it/12 c$ \T8M/djg/m/n/12 ¡·­©¹­¡¦² ¥ª¦©¦¡«¥
+­³´±®¢©² ª«¡²², ±®¬¥«¹©» ¡±©² ¥«¥¬¥­³© $\OML/cmm/m/it/12 g$\T8M/djg/m/n/12 . ¬¡
+±ã¦¥­¡
+ []
+
+
+Overfull \hbox (31.35909pt too wide) in paragraph at lines 89--90
+\T8M/djg/m/n/12 ¬â¡±¥² ¬¸®µ© ª¦¡«© ¡± ¡±©² ¤¡¬®ª©¤¥¢´«© ¥«¥¬¥­³§¥ $\OML/cmm/m/i
+t/12 g$ \T8M/djg/m/n/12 ©¬¤¥­¡¤, ±®£®±» ¤¡¬®ª©¤¥¢´«©¡
+ []
+
+[3] ("Representation Theory.aux") ) 
+Here is how much of TeX's memory you used:
+ 4843 strings out of 480790
+ 71001 string characters out of 2896364
+ 332714 words of memory out of 3000000
+ 20800 multiletter control sequences out of 15000+200000
+ 543929 words of font info for 54 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 44i,6n,40p,1542b,187s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Andreas/AppData/Local/Programs/MiK
+TeX/fonts/enc/dvips/georgian/t8m.enc}<C:/Users/Andreas/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Andreas/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Andreas/App
+Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/A
+ndreas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C
+:/Users/Andreas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb><C:/Users/Andreas/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmsy8.pfb><C:/Users/Andreas/AppData/Local/Programs/MiKTeX/fonts/type1/
+geodejavu/djg/djgb8a10.pfb><C:/Users/Andreas/AppData/Local/Programs/MiKTeX/font
+s/type1/geodejavu/djg/djgr8a10.pfb>
+Output written on "Representation Theory.pdf" (3 pages, 98996 bytes).
+PDF statistics:
+ 45 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

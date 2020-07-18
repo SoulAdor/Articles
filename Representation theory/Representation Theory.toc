@@ -1,0 +1,5 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}აბსტრაქტი}{1}%
+\contentsline {section}{\numberline {2}შესავალი}{1}%
+\contentsline {subsection}{\numberline {2.1}განმარტებები}{1}%
+\contentsline {subsection}{\numberline {2.2}ხასიათი კლასის ფუნქციაა}{3}%
