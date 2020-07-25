@@ -3,3 +3,9 @@
 \contentsline {section}{\numberline {2}შესავალი}{1}%
 \contentsline {subsection}{\numberline {2.1}განმარტებები}{1}%
 \contentsline {subsection}{\numberline {2.2}ხასიათი კლასის ფუნქციაა}{3}%
+\contentsline {subsection}{\numberline {2.3}ეკვივალენტური წარმოდგენები}{3}%
+\contentsline {subsection}{\numberline {2.4}დაყვანადი და დაუყვანადი წარმოდგენა}{4}%
+\contentsline {subsection}{\numberline {2.5}შეზღუდვა ქვეჯგუფზე}{5}%
+\contentsline {subsection}{\numberline {2.6}უნიტარული წარმოდგენები}{6}%
+\contentsline {subsection}{\numberline {2.7}უნიტარულობის თეორემის დამტკიცება}{6}%
+\contentsline {subsection}{\numberline {2.8}ნამრავლის წარმოდგენა}{7}%
