@@ -1,11 +1,18 @@
 \babel@toc {english}{}
-\contentsline {section}{\numberline {1}აბსტრაქტი}{1}%
-\contentsline {section}{\numberline {2}შესავალი}{1}%
-\contentsline {subsection}{\numberline {2.1}განმარტებები}{1}%
-\contentsline {subsection}{\numberline {2.2}ხასიათი კლასის ფუნქციაა}{3}%
-\contentsline {subsection}{\numberline {2.3}ეკვივალენტური წარმოდგენები}{3}%
-\contentsline {subsection}{\numberline {2.4}დაყვანადი და დაუყვანადი წარმოდგენა}{4}%
-\contentsline {subsection}{\numberline {2.5}შეზღუდვა ქვეჯგუფზე}{5}%
-\contentsline {subsection}{\numberline {2.6}უნიტარული წარმოდგენები}{6}%
-\contentsline {subsection}{\numberline {2.7}უნიტარულობის თეორემის დამტკიცება}{6}%
-\contentsline {subsection}{\numberline {2.8}ნამრავლის წარმოდგენა}{7}%
+\contentsline {section}{\numberline {1}აბსტრაქტი}{3}{section.1}%
+\contentsline {section}{\numberline {2}შესავალი}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}განმარტებები}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}ხასიათი კლასის ფუნქციაა}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}ეკვივალენტური წარმოდგენები}{5}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}დაყვანადი და დაუყვანადი წარმოდგენა}{5}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}შეზღუდვა ქვეჯგუფზე}{7}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}უნიტარული წარმოდგენები}{7}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}უნიტარულობის თეორემის დამტკიცება}{7}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}ნამრავლის წარმოდგენა}{9}{subsection.2.8}%
+\contentsline {section}{\numberline {3}შურის ლემა და დიდი ორთოგონალურობის თეორემა}{10}{section.3}%
+\contentsline {subsection}{\numberline {3.1}შურის ლემა}{10}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}შურის ლემის დამტკიცება}{10}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}დიდი ორთოგონალურობის თეორემა}{11}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}ხასიათის ორთოგონალურობა}{13}{subsection.3.4}%
+\contentsline {section}{\numberline {4}დასკვნა}{14}{section.4}%
+\contentsline {section}{\numberline {5}ბიბლიოგრაფია}{16}{section.5}%

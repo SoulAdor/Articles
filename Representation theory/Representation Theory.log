@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.8)  25 JUL 2020 23:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.8)  27 JUL 2020 12:26
 entering extended mode
 **"./Representation Theory.tex"
 ("Representation Theory.tex"
@@ -299,25 +299,163 @@ LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
 \l_MT_below_shortintertext_sep=\dimen153
 \xmathstrut@box=\box48
 \xmathstrut@dim=\dimen154
-) ("Representation Theory.aux")
+)
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+) (C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcm
+ds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr
+.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys
+.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefi
+nekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape
+.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmac
+ro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.s
+ty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen155
+\Hy@linkcounter=\count198
+\Hy@pagecounter=\count199
+
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.s
+ty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count266
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count267
+ (C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen156
+
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintca
+lc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count268
+\Field@Width=\dimen157
+\Fld@charsize=\dimen158
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
+
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/generic/atbegshi\atbegshi.s
+ty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count269
+\c@Item=\count270
+\c@Hfootnote=\count271
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
+
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/atveryend\atveryend.s
+ty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+\Fld@listcount=\count272
+\c@bookmark@seq@number=\count273
+
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunf
+ilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniqu
+ecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip57
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 20.
+ ("Representation Theory.aux")
 \openout1 = `"Representation Theory.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T8M/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T8M/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
 
 (C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
@@ -340,16 +478,16 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 (C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
 mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count198
-\scratchdimen=\dimen155
+\scratchcounter=\count274
+\scratchdimen=\dimen159
 \scratchbox=\box49
-\nofMPsegments=\count199
-\nofMParguments=\count266
+\nofMPsegments=\count275
+\nofMParguments=\count276
 \everyMPshowfont=\toks21
-\MPscratchCnt=\count267
-\MPscratchDim=\dimen156
-\MPnumerator=\count268
-\makeMPintoPDFobject=\count269
+\MPscratchCnt=\count277
+\MPscratchDim=\dimen160
+\MPnumerator=\count278
+\makeMPintoPDFobject=\count279
 \everyMPtoPDFconversion=\toks22
 )))
 (C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf
@@ -358,28 +496,75 @@ Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 )
-\Gin@req@height=\dimen157
-\Gin@req@width=\dimen158
+\Gin@req@height=\dimen161
+\Gin@req@width=\dimen162
 )
-LaTeX Font Info:    Font shape `T8M/cmr/m/n' in size <20.74> not available
-(Font)              Font shape `T8M/djg/m/n' tried instead on input line 19.
+\AtBeginShipoutBox=\box50
+
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cf
+g
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+Package hyperref Info: Link coloring ON on input line 22.
+
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gett
+itlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count280
+)
+LaTeX Info: Redefining \ref on input line 22.
+LaTeX Info: Redefining \pageref on input line 22.
+LaTeX Info: Redefining \nameref on input line 22.
+ ("Representation Theory.out") ("Representation Theory.out")
+\@outlinefile=\write3
+\openout3 = `"Representation Theory.out"'.
+
+LaTeX Font Info:    Font shape `T8M/cmr/m/n' in size <24.88> not available
+(Font)              Font shape `T8M/djg/m/n' tried instead on input line 27.
 LaTeX Font Info:    Font shape `T8M/djg/m/n' will be
-(Font)              scaled to size 18.66588pt on input line 19.
-LaTeX Font Info:    Font shape `T8M/cmr/m/n' in size <14.4> not available
-(Font)              Font shape `T8M/djg/m/n' tried instead on input line 19.
-LaTeX Font Info:    Font shape `T8M/djg/m/n' will be
-(Font)              scaled to size 12.9599pt on input line 19.
-LaTeX Font Info:    Font shape `T8M/cmr/m/n' in size <17.28> not available
-(Font)              Font shape `T8M/djg/m/n' tried instead on input line 21.
-LaTeX Font Info:    Font shape `T8M/djg/m/n' will be
-(Font)              scaled to size 15.55188pt on input line 21.
-LaTeX Font Info:    Font shape `T8M/cmr/bx/n' in size <17.28> not available
-(Font)              Font shape `T8M/djg/bx/n' tried instead on input line 21.
-LaTeX Font Info:    Font shape `T8M/djg/bx/n' in size <17.28> not available
-(Font)              Font shape `T8M/djg/b/n' tried instead on input line 21.
+(Font)              scaled to size 22.39185pt on input line 27.
+LaTeX Font Info:    Font shape `T8M/cmr/bx/n' in size <24.88> not available
+(Font)              Font shape `T8M/djg/bx/n' tried instead on input line 28.
+LaTeX Font Info:    Font shape `T8M/djg/bx/n' in size <24.88> not available
+(Font)              Font shape `T8M/djg/b/n' tried instead on input line 28.
 LaTeX Font Info:    Font shape `T8M/djg/b/n' will be
-(Font)              scaled to size 15.55188pt on input line 21.
- ("Representation Theory.toc"
+(Font)              scaled to size 22.39185pt on input line 28.
+LaTeX Font Info:    Font shape `T8M/cmr/m/n' in size <17.28> not available
+(Font)              Font shape `T8M/djg/m/n' tried instead on input line 31.
+LaTeX Font Info:    Font shape `T8M/djg/m/n' will be
+(Font)              scaled to size 15.55188pt on input line 31.
+LaTeX Font Info:    Font shape `T8M/cmr/bx/n' in size <17.28> not available
+(Font)              Font shape `T8M/djg/bx/n' tried instead on input line 32.
+LaTeX Font Info:    Font shape `T8M/djg/bx/n' in size <17.28> not available
+(Font)              Font shape `T8M/djg/b/n' tried instead on input line 32.
+LaTeX Font Info:    Font shape `T8M/djg/b/n' will be
+(Font)              scaled to size 15.55188pt on input line 32.
+LaTeX Font Info:    Font shape `T8M/cmr/m/n' in size <14.4> not available
+(Font)              Font shape `T8M/djg/m/n' tried instead on input line 36.
+LaTeX Font Info:    Font shape `T8M/djg/m/n' will be
+(Font)              scaled to size 12.9599pt on input line 36.
+
+[1
+
+{C:/Users/Andreas/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]pdfTeX warning
+ (ext4): destination with the same identifier (name{page.1}) has been already u
+sed, duplicate ignored
+<to be read again> 
+                   \relax 
+l.50 \leavevmode\thispagestyle{empty}\newpage
+                                              [1] ("Representation Theory.toc"
 LaTeX Font Info:    Font shape `T8M/cmr/bx/n' in size <12> not available
 (Font)              Font shape `T8M/djg/bx/n' tried instead on input line 2.
 LaTeX Font Info:    Font shape `T8M/djg/bx/n' in size <12> not available
@@ -387,96 +572,331 @@ LaTeX Font Info:    Font shape `T8M/djg/bx/n' in size <12> not available
 LaTeX Font Info:    Font shape `T8M/djg/b/n' will be
 (Font)              scaled to size 10.79993pt on input line 2.
 )
-\tf@toc=\write3
-\openout3 = `"Representation Theory.toc"'.
+\tf@toc=\write4
+\openout4 = `"Representation Theory.toc"'.
+
+[2]
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 56.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geob' on input line 56.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geos' on input line 56.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geot' on input line 56.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geor' on input line 56.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 56.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoubq' on input line 56.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geot' on input line 56.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoi' on input line 56.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoucysh' on input line 59.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoe' on input line 59.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geos' on input line 59.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 59.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoev' on input line 59.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 59.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geol' on input line 59.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoi' on input line 59.
 
 LaTeX Font Info:    Font shape `T8M/cmr/bx/n' in size <14.4> not available
-(Font)              Font shape `T8M/djg/bx/n' tried instead on input line 29.
+(Font)              Font shape `T8M/djg/bx/n' tried instead on input line 61.
 LaTeX Font Info:    Font shape `T8M/djg/bx/n' in size <14.4> not available
-(Font)              Font shape `T8M/djg/b/n' tried instead on input line 29.
+(Font)              Font shape `T8M/djg/b/n' tried instead on input line 61.
 LaTeX Font Info:    Font shape `T8M/djg/b/n' will be
-(Font)              scaled to size 12.9599pt on input line 29.
+(Font)              scaled to size 12.9599pt on input line 61.
 
-Underfull \hbox (badness 1424) in paragraph at lines 30--31
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geobg' on input line 61.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 61.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geon' on input line 61.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geom' on input line 61.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 61.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geor' on input line 61.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geot' on input line 61.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoe' on input line 61.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geob' on input line 61.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoe' on input line 61.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geob' on input line 61.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoi' on input line 61.
+
+
+Underfull \hbox (badness 1424) in paragraph at lines 62--63
 \T8M/djg/m/n/12 ã£´µ¨¡ ¨¥®±©©² ¹¥²à¡¦«©² ¤¡à¸¥¢¡ ¹¥©¼«¥¢¡ ²©¬¥³±©¥¢©¨ ¤¡ £¡±¤¡¶
 ¬­¥¢©¨.
  []
 
 
-Underfull \hbox (badness 7064) in paragraph at lines 30--31
+Underfull \hbox (badness 7064) in paragraph at lines 62--63
 \T8M/djg/m/n/12 à¡±¬®¤£¥­©² ¨¥®±©¡ ¨©¨® ã£´µ©² ¥«¥¬¥­³² ¹¥´²¡¢¡¬¥¢² ¬¡³±©»¡², ±
 ¡»
  []
 
 
-Underfull \hbox (badness 3323) in paragraph at lines 30--31
+Underfull \hbox (badness 3323) in paragraph at lines 62--63
 \T8M/djg/m/n/12 £¦¡¼«¥¦² ²¡¹´¡«¥¢¡², ±®¬ ã£´µ©² ¥«¥¬¥­³¥¢² ¦´¸´±®¨ ±®£®±» ²©¦±»
 ¥§¥
  []
 
 
-Underfull \hbox (badness 1019) in paragraph at lines 30--31
+Underfull \hbox (badness 1019) in paragraph at lines 62--63
 \T8M/djg/m/n/12 ¬®¶¬¥¤ £¡±¤¡¶¬­¥¢². ¥² ¡± ¡±©² ­¥¢©²¬©¥±© ¬¡³±©»¥¢©² ²©¬±¡¦«¥, 
 ¬¡² ¡¶¦²
  []
 
-[1
 
-{C:/Users/Andreas/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 3623) in paragraph at lines 40--41
+Underfull \hbox (badness 3623) in paragraph at lines 72--73
 []\T8M/djg/m/n/12 µ©§©ª®²¥¢© â¹©±¡¤ £´«©²â¬®¢¥­ ¬¡³±©»¥¢², ±®¤¥²¡» ²¡´¢±®¢¥­ ã£
 ´µ©²
  []
 
 
-Underfull \hbox (badness 2189) in paragraph at lines 45--48
-\OML/cmm/m/it/12 D\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 g\OT1/cmr/m/n/12 )\OML/cmm/
-m/it/12 D\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 g[]\OT1/cmr/m/n/12 )$\T8M/djg/m/n/12
- , ±®¬¥«©», (1[])-©² £¡¨¦¡«©²à©­¥¢©¨, £¦¡¼«¥¦² $\OML/cmm/m/it/12 D\OT1/cmr/m/n/
-12 (\OML/cmm/m/it/12 I\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 D\OT1/cmr/m/n/12 (\OML/
-cmm/m/it/12 I\OT1/cmr/m/n/12 ) = \OML/cmm/m/it/12 D\OT1/cmr/m/n/12 (\OML/cmm/m/
-it/12 I\OT1/cmr/m/n/12 )$\T8M/djg/m/n/12 .
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
  []
 
 
-Underfull \hbox (badness 4608) in paragraph at lines 51--52
+Underfull \hbox (badness 2809) in paragraph at lines 77--80
+[]\T8M/djg/m/n/12 ¡¬©² ²¡º¦¥­¥¢«¡¤, º¦¥­ ¹¥¦¡¬®à¬¥¢¨, ±®¬ $\OML/cmm/m/it/12 D\O
+T1/cmr/m/n/12 (\OML/cmm/m/it/12 I\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 D\OT1/cmr/m/
+n/12 (\OML/cmm/m/it/12 g\OT1/cmr/m/n/12 ) = \OML/cmm/m/it/12 D\OT1/cmr/m/n/12 (
+\OML/cmm/m/it/12 Ig\OT1/cmr/m/n/12 ) = \OML/cmm/m/it/12 D\OT1/cmr/m/n/12 (\OML/
+cmm/m/it/12 g\OT1/cmr/m/n/12 )$\T8M/djg/m/n/12 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--80
+\T8M/djg/m/n/12 ¨´ ¡¬ £¡­³®«¥¢¡² £¡¦¡¬±¡¦«¥¢¨ $\OML/cmm/m/it/12 D\OT1/cmr/m/n/1
+2 (\OML/cmm/m/it/12 g[]\OT1/cmr/m/n/12 )$\T8M/djg/m/n/12 -§¥ ¬¡±ã¦­©¤¡­, º¦¥­ ¬
+©¦©·¥¢¨:
+ []
+
+
+Underfull \hbox (badness 2426) in paragraph at lines 77--80
+\OML/cmm/m/it/12 D\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 I\OT1/cmr/m/n/12 )\OML/cmm/
+m/it/12 D\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 g\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 D
+\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 g[]\OT1/cmr/m/n/12 ) = \OML/cmm/m/it/12 D\OT1
+/cmr/m/n/12 (\OML/cmm/m/it/12 g\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 D\OT1/cmr/m/n/
+12 (\OML/cmm/m/it/12 g[]\OT1/cmr/m/n/12 )$\T8M/djg/m/n/12 , ±®¬¥«©», ([][]1[][]
+)-©² £¡¨¦¡«©²à©­¥¢©¨, £¦¡¼«¥¦²
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--80
+
+ []
+
+[3]
+Underfull \hbox (badness 4608) in paragraph at lines 83--84
 \T8M/djg/m/n/12 ¨©¨® ¥«¥¬¥­³© $\OML/cmm/m/it/12 S[]$\T8M/djg/m/n/12 -¹© ¹¥£¦©¼«
 ©¡ à¡±¬®¦©¤£©­®¨ ¬¡³±©»´«© ²¡â©¨ (¨©¨®
  []
 
 
-Underfull \hbox (badness 1688) in paragraph at lines 51--52
+Underfull \hbox (badness 1688) in paragraph at lines 83--84
 \T8M/djg/m/n/12 ²¡²±´« ã£´µ² £¡¡º­©¡ à¡±¬®¤£¥­¡. §®£© ã£´µ©² à¡±¬®¤£¥­¡ ¹¥´¼«¥¢
 ¥«©¡
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--56
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
 []\T8M/djg/m/n/12 ¬¡¨¥¬¡³©ª´±© ¥­©² £¡¬®¸¥­¥¢©¨, º¦¥­ £¡­¦²¡§·¦±¡¦¨ $\OML/cmm/m
 /it/12 d$\T8M/djg/m/n/12 -£¡­§®¬©«¥¢©¡­
  []
 
-[2]
-Underfull \hbox (badness 2150) in paragraph at lines 62--63
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geovkh' on input line 93.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 93.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geos' on input line 93.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoi' on input line 93.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 93.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoezth' on input line 93.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoi' on input line 93.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geok' on input line 93.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geol' on input line 93.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 93.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geos' on input line 93.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoi' on input line 93.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geos' on input line 93.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geouaph' on input line 93.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geou' on input line 93.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geon' on input line 93.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoubq' on input line 93.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geouec' on input line 93.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoi' on input line 93.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 93.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 93.
+
+
+Underfull \hbox (badness 2150) in paragraph at lines 94--95
 \T8M/djg/m/n/12 §¥¤¡ ©­¤¥¶²©² £¡¬®¸¥­¥¢©¨. º¦¥­ ¤¡¦à¥±¨ $\OML/cmm/m/it/12 D[]\O
 T1/cmr/m/n/12 (\OML/cmm/m/it/12 g\OT1/cmr/m/n/12 )$ \T8M/djg/m/n/12 ¬¡³±©»©²¨¦©
 ², ±®¬¥«©»
  []
 
 
-Underfull \hbox (badness 1466) in paragraph at lines 70--71
+Underfull \hbox (badness 1466) in paragraph at lines 102--103
 []\T8M/djg/m/n/12 â¡²©¡¨©, ±®£®±» ¤¡²¡â¥«¥¢©¤¡­ £¡¬®¬¤©­¡±¥®¢², £¦¥â¬¡±¥¢¡ à¡±¬
 ®¤£¥­©²
  []
 
 
-Underfull \hbox (badness 2662) in paragraph at lines 72--73
+Underfull \hbox (badness 2662) in paragraph at lines 104--105
 []\T8M/djg/m/n/12 º¦¥´«¥¢±©¦¡¤, â¡²©¡¨© ¤¡¬®ª©¤¥¢´«©¡ à¡±¬®¤£¥­¡²¡ $\OML/cmm/m/
 it/12 r$ \T8M/djg/m/n/12 ¤¡ ¥«¥¬¥­³§¥ $\OML/cmm/m/it/12 g$\T8M/djg/m/n/12 .
  []
 
-
-Underfull \hbox (badness 5817) in paragraph at lines 80--85
+[4]
+Underfull \hbox (badness 5817) in paragraph at lines 112--117
 []$\OML/cmm/m/it/12 []\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 g[]\OT1/cmr/m/n/12 ) =
  \OML/cmm/m/it/12 trD[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 g[]\OT1/cmr/m/n/12 ) =
  \OML/cmm/m/it/12 trD[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 f[]g[]f\OT1/cmr/m/n/12
@@ -486,107 +906,294 @@ L/cmm/m/it/12 D[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 f\OT1/cmr/m/n/12 ) =
  []
 
 
-Underfull \hbox (badness 1314) in paragraph at lines 90--91
+Underfull \hbox (badness 1314) in paragraph at lines 122--123
 []\T8M/djg/m/n/12 ²¡¤¡» $\OML/cmm/m/it/12 c$ \T8M/djg/m/n/12 ¡·­©¹­¡¦² ¥ª¦©¦¡«¥
 ­³´±®¢©² ª«¡²², ±®¬¥«¹©» ¡±©² ¥«¥¬¥­³© $\OML/cmm/m/it/12 g$\T8M/djg/m/n/12 .
  []
 
 
-Underfull \hbox (badness 2277) in paragraph at lines 99--100
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoe' on input line 124.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geok' on input line 124.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoev' on input line 124.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoi' on input line 124.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoev' on input line 124.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 124.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geol' on input line 124.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoe' on input line 124.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geon' on input line 124.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geot' on input line 124.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geou' on input line 124.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geor' on input line 124.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoi' on input line 124.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geovets' on input line 124.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 124.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geor' on input line 124.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geom' on input line 124.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoo' on input line 124.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geod' on input line 124.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geobg' on input line 124.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoe' on input line 124.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geon' on input line 124.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoe' on input line 124.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geob' on input line 124.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoi' on input line 124.
+
+
+Underfull \hbox (badness 2277) in paragraph at lines 131--132
 []\T8M/djg/m/n/12 ±®£®±» ¦©»©¨ à±µ©¦© ¡«£¥¢±©¤¡­, $\OML/cmm/m/it/12 D\OT1/cmr/m
 /n/12 (\OML/cmm/m/it/12 g\OT1/cmr/m/n/12 )$ \T8M/djg/m/n/12 ¤¡ $\OML/cmm/m/it/1
 2 D[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 g\OT1/cmr/m/n/12 )$ \T8M/djg/m/n/12 ¡±©²
  ¥±¨© ¤¡ ©£©¦¥
  []
 
-[3]
-Underfull \hbox (badness 2662) in paragraph at lines 112--114
+
+Underfull \hbox (badness 2662) in paragraph at lines 144--146
 \T8M/djg/m/n/12 ¬¡£±¡¬ ¨´ $\OML/cmm/m/it/12 []\OT1/cmr/m/n/12 (\OML/cmm/m/it/1
 2 c\OT1/cmr/m/n/12 ) = \OML/cmm/m/it/12 \OT1/cmr/m/n/12 (\OML/cmm/m/it/12 c\OT
 1/cmr/m/n/12 )$ \T8M/djg/m/n/12 ²±´«¤¥¢¡ ¸¦¥«¡ ª«¡²©²¨¦©², ¡±©² ¨´ ¡±¡ ®±©
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--129
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geod' on input line 148.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 148.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoucy' on input line 148.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoev' on input line 148.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 148.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geon' on input line 148.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 148.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geod' on input line 148.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoi' on input line 148.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geod' on input line 148.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 148.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geod' on input line 148.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 148.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geou' on input line 148.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoucy' on input line 148.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoev' on input line 148.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 148.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geon' on input line 148.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 148.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geod' on input line 148.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoi' on input line 148.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geovets' on input line 148.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 148.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geor' on input line 148.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geom' on input line 148.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoo' on input line 148.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geod' on input line 148.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geobg' on input line 148.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoe' on input line 148.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geon' on input line 148.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 148.
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 151--161
 
  []
 
 
-Underfull \hbox (badness 1616) in paragraph at lines 130--131
+Underfull \hbox (badness 1616) in paragraph at lines 162--163
 \T8M/djg/m/n/12 ¤©¡£®­¡«´±© ¬¡³±©»¡. ¬¡²¹© ¢«®ª¥¢© ¤¡¬®´ª©¤¥¢«¡¤ ¬±¡¦«¤¥¢¡ ±®£®
 ±»
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--131
+Underfull \hbox (badness 10000) in paragraph at lines 162--163
 
  []
 
 
-Underfull \hbox (badness 2726) in paragraph at lines 132--133
+Underfull \hbox (badness 2726) in paragraph at lines 164--165
 \T8M/djg/m/n/12 à¡±¬®¤£¥­¡ ¬©¦©·®¨ (¸¦¥«¡§¥ ¬¡±³©¦¡¤, ±¡¬¤¥­©» £¦©­¤¡ $\OML/cmm
 /m/it/12 D[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 g\OT1/cmr/m/n/12 )$ \T8M/djg/m/n/
 12 ¬©¦¡¤£¡¨
  []
 
 
-Underfull \hbox (badness 1112) in paragraph at lines 132--133
+Underfull \hbox (badness 1112) in paragraph at lines 164--165
 \T8M/djg/m/n/12 ¥±¨¬¡­¥¨². £¡¬®¦¡ ¥±¨¥´«®¦¡­© ¬¡³±©»¡, ¡­´ ã£´µ© ©­¦¡±©¡­³´«² ³
 ®¦¥¢²
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 132--133
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
 
  []
 
-[4]
-Underfull \hbox (badness 1394) in paragraph at lines 134--135
+
+Underfull \hbox (badness 1394) in paragraph at lines 166--167
 []\T8M/djg/m/n/12 à¡±¬®¤£¥­¡ $\OML/cmm/m/it/12 D\OT1/cmr/m/n/12 (\OML/cmm/m/it/
 12 g\OT1/cmr/m/n/12 )$\T8M/djg/m/n/12 -² ¥à®¤¥¢¡ ¤¡¸¦¡­¡¤©,¤¡ ©² º¡©à¥±¥¢¡ ±®£®
 ±» ¯©±¤¡¯©±©
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--135
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 136--137
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 138--139
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 140--141
-
- []
-
-
-Underfull \hbox (badness 1163) in paragraph at lines 146--147
-\T8M/djg/m/n/12 ¬©²© ¶¦¥ã£´µ©²¨¦©². ¡·¦­©¹­®¨ $\OML/cmm/m/it/12 H$ \T8M/djg/m/n
-/12 ¶¦¥ã£´µ©² ¥«¥¬¥­³¥¢©, ±®£®±» $\OML/cmm/m/it/12 h$\T8M/djg/m/n/12 . ¨´
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 146--147
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 148--149
-
- []
-
-[5]
-Underfull \hbox (badness 1158) in paragraph at lines 168--169
-[]\T8M/djg/m/n/12 ¥² ²¡¬© ã¡¬© ²©­¡¬¤¦©«¥¹© ¥±¨­¡©±©, ¬¡£±¡¬ £¡¤¡­¡»¦«¥¢´«© à¥¦
-±¥¢©²£¡­
  []
 
 
@@ -595,18 +1202,328 @@ Underfull \hbox (badness 10000) in paragraph at lines 168--169
  []
 
 
-Underfull \hbox (badness 1048) in paragraph at lines 185--187
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+
+ []
+
+[6]
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoucysh' on input line 176.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoe' on input line 176.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoez' on input line 176.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoubqgh' on input line 176.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geou' on input line 176.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geod' on input line 176.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoev' on input line 176.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 176.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoubq' on input line 176.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoev' on input line 176.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoe' on input line 176.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geovkj' on input line 176.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geobg' on input line 176.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geou' on input line 176.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geouaph' on input line 176.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoez' on input line 176.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoe' on input line 176.
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 178--179
+\T8M/djg/m/n/12 ¬©²© ¶¦¥ã£´µ©²¨¦©². ¡·¦­©¹­®¨ $\OML/cmm/m/it/12 H$ \T8M/djg/m/n
+/12 ¶¦¥ã£´µ©² ¥«¥¬¥­³¥¢©, ±®£®±» $\OML/cmm/m/it/12 h$\T8M/djg/m/n/12 . ¨´
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--181
+
+ []
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geou' on input line 184.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geon' on input line 184.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoi' on input line 184.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geot' on input line 184.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 184.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geor' on input line 184.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geou' on input line 184.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geol' on input line 184.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoi' on input line 184.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geovets' on input line 184.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 184.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geor' on input line 184.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geom' on input line 184.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoo' on input line 184.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geod' on input line 184.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geobg' on input line 184.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoe' on input line 184.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geon' on input line 184.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoe' on input line 184.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geob' on input line 184.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoi' on input line 184.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geou' on input line 192.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geon' on input line 192.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoi' on input line 192.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geot' on input line 192.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 192.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geor' on input line 192.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geou' on input line 192.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geol' on input line 192.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoo' on input line 192.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geob' on input line 192.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoi' on input line 192.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geos' on input line 192.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoezth' on input line 192.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoe' on input line 192.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoo' on input line 192.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geor' on input line 192.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoe' on input line 192.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geom' on input line 192.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoi' on input line 192.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geos' on input line 192.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geod' on input line 192.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 192.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geom' on input line 192.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geot' on input line 192.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geok' on input line 192.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoi' on input line 192.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geouec' on input line 192.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoe' on input line 192.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geob' on input line 192.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 192.
+
+
+Underfull \hbox (badness 1158) in paragraph at lines 200--201
+[]\T8M/djg/m/n/12 ¥² ²¡¬© ã¡¬© ²©­¡¬¤¦©«¥¹© ¥±¨­¡©±©, ¬¡£±¡¬ £¡¤¡­¡»¦«¥¢´«© à¥¦
+±¥¢©²£¡­
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
+
+ []
+
+[7]
+Underfull \hbox (badness 1048) in paragraph at lines 217--219
 \T8M/djg/m/n/12 ¥«¥¬¥­³¥¢© ¡±¡ ¬¡±³® ±¥¡«´±©¡, ¡±¡¬¥¤ ¤¡¤¥¢©¨©». (¡¬©³®¬¡» ¹¥¬®
 ¦©·¥¨
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 198--199
+Underfull \hbox (badness 10000) in paragraph at lines 230--231
 
  []
 
-[6]
-Underfull \hbox (badness 5446) in paragraph at lines 204--213
+
+Underfull \hbox (badness 5446) in paragraph at lines 236--245
 []$\OML/cmm/m/it/12 D\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 g\OT1/cmr/m/n/12 )[]\OML
 /cmm/m/it/12 D\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 g\OT1/cmr/m/n/12 ) = \OML/cmm/m
 /it/12 []W[][]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 g\OT1/cmr/m/n/12 )[]\OML/cmm/m
@@ -617,93 +1534,847 @@ it/12 W[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 []W[][]\OT1/cmr/m/n/12 (\OML/cmm
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 214--215
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
 
  []
 
 
-Underfull \hbox (badness 4217) in paragraph at lines 218--219
+Underfull \hbox (badness 4217) in paragraph at lines 250--251
 \T8M/djg/m/n/12 ­¡¬¤¦©«© ´­©³¡±´«© ¬¡³±©»¡ ®±¨®£®­¡«´±©¡, ²â¦¡ ²©³¸¦¥¢©¨, ¨´ $\
 OML/cmm/m/it/12 D\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 g\OT1/cmr/m/n/12 )$
  []
 
 
-Underfull \hbox (badness 2221) in paragraph at lines 221--222
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geon' on input line 252.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 252.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geom' on input line 252.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geor' on input line 252.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 252.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoev' on input line 252.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geol' on input line 252.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoi' on input line 252.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geos' on input line 252.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geovets' on input line 252.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 252.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geor' on input line 252.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geom' on input line 252.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoo' on input line 252.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geod' on input line 252.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geobg' on input line 252.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoe' on input line 252.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geon' on input line 252.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 252.
+
+
+Underfull \hbox (badness 2221) in paragraph at lines 253--254
 \T8M/djg/m/n/12 ´µ±® ¤©¤© à¡±¬®¤£¥­¡, ±®¬¥«²¡» º¦¥­ ¦´à®¤¥¢¨ ¯¡±¡³¡ à¡±¬®¤£¥­¥¢
 ©¤¡­
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 221--222
+Underfull \hbox (badness 10000) in paragraph at lines 253--254
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 234--235
-
- []
-
-[7]
-Underfull \hbox (badness 1371) in paragraph at lines 238--242
+Underfull \hbox (badness 1371) in paragraph at lines 270--274
 \T8M/djg/m/n/12 ©² ¹¥¤£¥¢¡. ¥² ¹¥¤¥£© ª¡±£ ¡­¡«®£©¡¹©¡ à©­¡²¨¡­, ±®¤¥²¡» º¦¥­ ¬
 ©¦©·¥¨,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 243--244
+Underfull \hbox (badness 10000) in paragraph at lines 275--276
 
  []
 
 
-Underfull \hbox (badness 2285) in paragraph at lines 245--246
+Underfull \hbox (badness 2285) in paragraph at lines 277--278
 \T8M/djg/m/n/12 ã£´µ©. ¤¡¦´¹¦¡¨, $\OML/cmm/m/it/12 []$\T8M/djg/m/n/12 , $\OML/
 cmm/m/it/12 a \OT1/cmr/m/n/12 = 1\OML/cmm/m/it/12 ; [] ; d[]$\T8M/djg/m/n/12 , 
 ¡·­©¹­¡¦¤¥² $\OML/cmm/m/it/12 d[]$ \T8M/djg/m/n/12 ®¢©¥¶³², ±®¬«¥¢©»
  []
 
 
-Underfull \hbox (badness 2644) in paragraph at lines 245--246
+Underfull \hbox (badness 2644) in paragraph at lines 277--278
 \T8M/djg/m/n/12 £¡±¤¡©¶¬­¥¢©¡­ ¥±¨¬¡­¥¨©² à±µ©¦ ª®¬¢©­¡»©¥¢¹©. ¡­¡«®£©´±¡¤, $\O
 ML/cmm/m/it/12 []$\T8M/djg/m/n/12 , $\OML/cmm/m/it/12  \OT1/cmr/m/n/12 =
  []
 
 
-Underfull \hbox (badness 1715) in paragraph at lines 245--246
+Underfull \hbox (badness 1715) in paragraph at lines 277--278
 \OT1/cmr/m/n/12 1\OML/cmm/m/it/12 ; [] ; d[]$ \T8M/djg/m/n/12 ¡·¦­©¹­®¨ ®¢©¥¶³¥
 ¢© $\OML/cmm/m/it/12 s$ \T8M/djg/m/n/12 à¡±¬®¤£¥­©²¨¦©². ¬¡¹©­ $\OML/cmm/m/it/1
 2 d[]d[]$ \T8M/djg/m/n/12 ®¢©¥¶³© $\OML/cmm/m/it/12 [][]$
  []
 
 
-Underfull \hbox (badness 1584) in paragraph at lines 245--246
+Underfull \hbox (badness 1584) in paragraph at lines 277--278
 \T8M/djg/m/n/12 ¡¢²³±¡¶³´«© ¬¡¨¥¬¡³©ª´±© ®¢©¥¶³¥¢© ¡±©² ±¥¡«©§¥¢´«© ª¦¡­³´± ¬¥¶
 ¡­©ª¡¹©
  []
 
-[8] ("Representation Theory.aux") ) 
+[9]
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoucysh' on input line 281.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geou' on input line 281.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geor' on input line 281.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoi' on input line 281.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geos' on input line 281.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geol' on input line 281.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoe' on input line 281.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geom' on input line 281.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 281.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geod' on input line 281.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 281.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geod' on input line 281.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoi' on input line 281.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geod' on input line 281.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoi' on input line 281.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoo' on input line 281.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geor' on input line 281.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoezth' on input line 281.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoo' on input line 281.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geobg' on input line 281.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoo' on input line 281.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geon' on input line 281.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 281.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geol' on input line 281.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geou' on input line 281.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geor' on input line 281.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoo' on input line 281.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geob' on input line 281.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoi' on input line 281.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geos' on input line 281.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoezth' on input line 281.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoe' on input line 281.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoo' on input line 281.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geor' on input line 281.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoe' on input line 281.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geom' on input line 281.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 281.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoucysh' on input line 284.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geou' on input line 284.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geor' on input line 284.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoi' on input line 284.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geos' on input line 284.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geol' on input line 284.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoe' on input line 284.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geom' on input line 284.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 284.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 291--292
+
+ []
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoucysh' on input line 296.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geou' on input line 296.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geor' on input line 296.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoi' on input line 296.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geos' on input line 296.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geol' on input line 296.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoe' on input line 296.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geom' on input line 296.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoi' on input line 296.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geos' on input line 296.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geod' on input line 296.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 296.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geom' on input line 296.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geot' on input line 296.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geok' on input line 296.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoi' on input line 296.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geouec' on input line 296.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoe' on input line 296.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geob' on input line 296.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 296.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 298--299
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--304
+
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 311--313
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 314--315
+[]\T8M/djg/m/n/12 à¡±¬®¤£¥­©² ¤¡´¸¦¡­¡¤®¢¡ £¦©»¡¦² à©­¡ ¯¡±¡£±¡µ¹© ¡·­©¹­´«© »´
+¤©
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 316--323
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--334
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--336
+
+ []
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geod' on input line 339.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoi' on input line 339.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geod' on input line 339.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoi' on input line 339.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoo' on input line 339.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geor' on input line 339.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoezth' on input line 339.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoo' on input line 339.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geobg' on input line 339.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoo' on input line 339.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geon' on input line 339.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 339.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geol' on input line 339.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geou' on input line 339.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geor' on input line 339.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoo' on input line 339.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geob' on input line 339.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoi' on input line 339.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geos' on input line 339.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoezth' on input line 339.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoe' on input line 339.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoo' on input line 339.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geor' on input line 339.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoe' on input line 339.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geom' on input line 339.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 339.
+
+
+Underfull \hbox (badness 1043) in paragraph at lines 341--342
+\T8M/djg/m/n/12 ¡â«¡ º¦¥­ ¬§¡¤ ¦¡±¨ à¡±¬®¤£¥­©² ¨¥®±©©² »¥­³±¡«´±© ¨¥®±¥¬©²¨¦©²
+: ¨´
+ []
+
+
+Underfull \hbox (badness 2237) in paragraph at lines 351--352
+[]\T8M/djg/m/n/12 ¹©­¡¡±²®¢±©¦¡¤, ¨´ º¦¥­ ¡¦©·¥¢¨ ã¡¬² ¬¨¥«© ã£´µ©¨, ¬¡¹©­ ±®¬¥
+«©¬¥
+ []
+
+[11]
+Underfull \hbox (badness 6173) in paragraph at lines 353--354
+[]\T8M/djg/m/n/12 ¹¥£©¼«©¡¨, ¡± ¤¡©¬¡â²®¦±®¨ ¬¡±ã¦¥­¡ ¬â¡±¥² ¬¸®µ© ¯±®¯®±»©´«®¢
+²
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 355--356
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 378--388
+
+ []
+
+
+Underfull \hbox (badness 4647) in paragraph at lines 389--390
+[]\T8M/djg/m/n/12 ¡¶¥¤¡­ £¡¬®¬¤©­¡±¥®¢² ¬­©¹¦­¥«®¦¡­© µ¡¶³©: ¨´ $\OML/cmm/m/it/
+12 r$ \T8M/djg/m/n/12 ¤¡ $\OML/cmm/m/it/12 s$ \T8M/djg/m/n/12 ¡±©¡­ ®±©
+ []
+
+
+Underfull \hbox (badness 1117) in paragraph at lines 391--393
+\T8M/djg/m/n/12 à¡±¬®¤£¥­¡¹© ©­¤¥¶²¥¢© $\OML/cmm/m/it/12 i$\T8M/djg/m/n/12 , $\
+OML/cmm/m/it/12 j$ \T8M/djg/m/n/12 ¤¡ ©­¤¥¶²¥¢© $\OML/cmm/m/it/12 k$\T8M/djg/m/
+n/12 , $\OML/cmm/m/it/12 l$ \T8M/djg/m/n/12 ¡±©¡­ ²â¦¡¤¡²â¦¡ ²©¦±»¥¥¢¹©,
+ []
+
+
+Underfull \hbox (badness 3930) in paragraph at lines 399--400
+[]\T8M/djg/m/n/12 ª±®­¥ª¥±©² ²©¬¢®«® $\OML/cmm/m/it/12 []$ \T8M/djg/m/n/12 ¡±©
+² 1 ¨´ ®±© à¡±¬®¤£¥­¡ ©£©¦¥ ¡±©² (¡­´
+ []
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geovkh' on input line 403.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 403.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geos' on input line 403.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoi' on input line 403.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 403.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoezth' on input line 403.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoi' on input line 403.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geos' on input line 403.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoo' on input line 403.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geor' on input line 403.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoezth' on input line 403.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoo' on input line 403.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geobg' on input line 403.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoo' on input line 403.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geon' on input line 403.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 403.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geol' on input line 403.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geou' on input line 403.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geor' on input line 403.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoo' on input line 403.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geob' on input line 403.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 403.
+
+[12] [13]
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geod' on input line 429.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 429.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geos' on input line 429.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geok' on input line 429.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoev' on input line 429.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geon' on input line 429.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 429.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 430--431
+
+ []
+
+
+Underfull \hbox (badness 1253) in paragraph at lines 432--433
+\T8M/djg/m/n/12 ¬­©¹¦­¥«®¦¡­ »­¥¢¥¢², ±®¬«¥¢©» ¤¡ª¡¦¹©±¥¢´«©¡ $\OML/cmm/m/it/12
+ N\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 C\OT1/cmr/m/n/12 )$\T8M/djg/m/n/12 -²¡ (¥ª¦
+©¦¡«¥­³´±®¢©²
+ []
+
+
+Underfull \hbox (badness 1043) in paragraph at lines 432--433
+\T8M/djg/m/n/12 º¦¥­² ¬©¥± ¬©·¥¢´«© ¹¥¤¥£©² £¡¬®¸¥­¥¢©¨ º¦¥­ ¹¥¬®¦©·¥¢¨ ¦¥¶³®±¥
+¢² $\OML/cmm/m/it/12 N\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 C\OT1/cmr/m/n/12 )$\T8M
+/djg/m/n/12 -
+ []
+
+
+Underfull \hbox (badness 2970) in paragraph at lines 432--433
+\T8M/djg/m/n/12 £¡­§®¬©«¥¢©¡­ ª®¬«¥¶²´± ¦¥¶³®±´« ²©¦±»¥¹© ¤¡ ¬¡¨© ®±¨®£®­¡«´±®¢
+©²
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--446
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 447--449
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 450--451
+
+ []
+
+[14] [15]
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geob' on input line 456.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoi' on input line 456.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geob' on input line 456.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geol' on input line 456.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoi' on input line 456.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoo' on input line 456.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geobg' on input line 456.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geor' on input line 456.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 456.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geouaph' on input line 456.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoi' on input line 456.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\geoa' on input line 456.
+
+LaTeX Font Info:    Font shape `T8M/cmr/m/it' in size <12> not available
+(Font)              Font shape `T8M/djg/m/it' tried instead on input line 460.
+LaTeX Font Info:    Font shape `T8M/djg/m/it' will be
+(Font)              scaled to size 10.79993pt on input line 460.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 467.
+[16]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 467.
+ ("Representation Theory.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 467.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 467.
+Package rerunfilecheck Info: File `"Representation Theory".out' has not changed
+.
+(rerunfilecheck)             Checksum: ED4B368451E0AF8A125F36B4B93E21B2;814.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 467.
+ ) 
 Here is how much of TeX's memory you used:
- 4845 strings out of 480790
- 71061 string characters out of 2896364
- 333730 words of memory out of 3000000
- 20802 multiletter control sequences out of 15000+200000
- 543929 words of font info for 54 fonts, out of 3000000 for 9000
+ 8934 strings out of 480790
+ 136906 string characters out of 2896364
+ 423406 words of memory out of 3000000
+ 24734 multiletter control sequences out of 15000+200000
+ 544268 words of font info for 52 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,8n,40p,1542b,187s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/Andreas/AppData/Local/Programs/MiK
-TeX/fonts/enc/dvips/georgian/t8m.enc}<C:/Users/Andreas/AppData/Local/Programs/M
-iKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Andreas/AppData/Local
-/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Andreas/Ap
-pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/
-Andreas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-<C:/Users/Andreas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmr8.pfb><C:/Users/Andreas/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmsy10.pfb><C:/Users/Andreas/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/amsfonts/cm/cmsy8.pfb><C:/Users/Andreas/AppData/Local/Programs/MiKTeX/f
-onts/type1/geodejavu/djg/djgb8a10.pfb><C:/Users/Andreas/AppData/Local/Programs/
-MiKTeX/fonts/type1/geodejavu/djg/djgr8a10.pfb>
-Output written on "Representation Theory.pdf" (8 pages, 142228 bytes).
+ 44i,8n,40p,1544b,393s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Andreas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/georgian/t8m.
+enc}<C:/Users/Andreas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmex10.pfb><C:/Users/Andreas/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmmi12.pfb><C:/Users/Andreas/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Andreas/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Andreas/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Andreas/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/And
+reas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:
+/Users/Andreas/AppData/Local/Programs/MiKTeX/fonts/type1/geodejavu/djg/djgb8a10
+.pfb><C:/Users/Andreas/AppData/Local/Programs/MiKTeX/fonts/type1/geodejavu/djg/
+djgr8a10.pfb><C:/Users/Andreas/AppData/Local/Programs/MiKTeX/fonts/type1/geodej
+avu/djg/djgri8a10.pfb>
+Output written on "Representation Theory.pdf" (17 pages, 191226 bytes).
 PDF statistics:
- 66 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 235 PDF objects out of 1000 (max. 8388607)
+ 46 named destinations out of 1000 (max. 500000)
+ 137 words of extra memory for PDF output out of 10000 (max. 10000000)
 
